@@ -1,0 +1,1 @@
+Base de trabajo del proyecto final. main.py mantiene el código del avance original y se ejecuta como antes. Las carpetas modelos, servicios y pruebas están preparadas pero todavía no contienen la implementación final. La carpeta avance_original conserva los archivos del ZIP inicial.
